@@ -1,11 +1,12 @@
 wwsd-india
-=======
+-------------
 **Dravidian**
-* Kannada
-* Malayalam
-* Telugu
+* [Kannada](kan.csv)
+* [Malayalam](mal.csv)
+* [Telugu](tel.csv)
 
 **Indo-Aryan**
-* Bengali
-* Sinhala
-* Hindi
+* [Bengali](ben.csv)
+* [Sinhala](sin.csv)
+* [Hindi](hin.csv)
+* [Panjabi](pan.csv)
