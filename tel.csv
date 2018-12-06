@@ -1,36 +1,132 @@
-ರ‍್ಕ
-ರ‍್ಖ
-ರ‍್ಗ
-ರ‍್ಘ
-ರ‍್ಙ
-ರ‍್ಚ
-ರ‍್ಛ
-ರ‍್ಜ
-ರ‍್ಝ
-ರ‍್ಞ
-ರ‍್ಟ
-ರ‍್ಠ
-ರ‍್ಡ
-ರ‍್ಢ
-ರ‍್ಣ
-ರ‍್ತ
-ರ‍್ಥ
-ರ‍್ದ
-ರ‍್ಧ
-ರ‍್ನ
-ರ‍್ಪ
-ರ‍್ಫ
-ರ‍್ಬ
-ರ‍್ಭ
-ರ‍್ಮ
-ರ‍್ಯ
-ರ‍್ರ
-ರ‍್ಱ
-ರ‍್ಲ
-ರ‍್ವ
-ರ‍್ಶ
-ರ‍್ಷ
-ರ‍್ಸ
-ರ‍್ಹ
-ರ‍್ಳ
-ರ‍್ೞ
+script,grapheme,IPA,comment,source,omniglot
+Telugu,అ,a,,Krishnamurti & Gwynn 1985: 3-31,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఆ,aː,,Krishnamurti & Gwynn 1985: 3-32,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఇ,i,,Krishnamurti & Gwynn 1985: 3-33,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఈ,iː,,Krishnamurti & Gwynn 1985: 3-34,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఇ,yi,at the beginning of the word in isolation,Krishnamurti & Gwynn 1985: 3-35,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఈ,yiː,at the beginning of the word in isolation,Krishnamurti & Gwynn 1985: 3-36,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఉ,u,,Krishnamurti & Gwynn 1985: 3-35,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఊ,uː,,Krishnamurti & Gwynn 1985: 3-36,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఉ,wu,at the beginning of the word in isolation,Krishnamurti & Gwynn 1985: 3-35,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఊ,wuː,at the beginning of the word in isolation,Krishnamurti & Gwynn 1985: 3-36,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఎ,e,,Krishnamurti & Gwynn 1985: 3-37,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఏ,eː,,Krishnamurti & Gwynn 1985: 3-38,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఎ,ye,at the beginning of the word in isolation,Krishnamurti & Gwynn 1985: 3-37,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఏ,yeː,at the beginning of the word in isolation,Krishnamurti & Gwynn 1985: 3-38,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఐ,ai,,Krishnamurti & Gwynn 1985: 3-39,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఐ,ayi,,Krishnamurti & Gwynn 1985: 3-39,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఒ,o,,Krishnamurti & Gwynn 1985: 3-40,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఓ,oː,,Krishnamurti & Gwynn 1985: 3-41,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఔ,au,,Krishnamurti & Gwynn 1985: 3-42,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఋ,ru,in borrowings,Krishnamurti & Gwynn 1985: 3-43,https://www.omniglot.com/writing/telugu.htm
+Telugu,ౠ,ru,in borrowings; extremely rare ,Krishnamurti & Gwynn 1985: 3-44,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఌ,lu,in borrowings,Krishnamurti & Gwynn 1985: 3-45,https://www.omniglot.com/writing/telugu.htm
+Telugu,ౡ,lu,in borrowings; extremely rare ,Krishnamurti & Gwynn 1985: 3-46,https://www.omniglot.com/writing/telugu.htm
+Telugu,్ ,,supresses the vowel,Krishnamurti & Gwynn 1985: 3-47,https://www.omniglot.com/writing/telugu.htm
+Telugu,ం,ŋ,before k g,Krishnamurti & Gwynn 1985: 3-48,https://www.omniglot.com/writing/telugu.htm
+Telugu,ం,ñ,before c j with a front vowel,Krishnamurti & Gwynn 1985: 3-49,https://www.omniglot.com/writing/telugu.htm
+Telugu,ం,n,before c j with a back vowel,Krishnamurti & Gwynn 1985: 3-50,https://www.omniglot.com/writing/telugu.htm
+Telugu,ం,ɳ,before ʈ ɖ,Krishnamurti & Gwynn 1985: 3-51,https://www.omniglot.com/writing/telugu.htm
+Telugu,ం,w̃,at the end of a word/before w ʃ ʂ h,Krishnamurti & Gwynn 1985: 3-52,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఁ,◌̃ ,,Krishnamurti & Gwynn 1985: 3-53,https://www.omniglot.com/writing/telugu.htm
+Telugu,ః,ḥ,,Krishnamurti & Gwynn 1985: 3-54,https://www.omniglot.com/writing/telugu.htm
+Telugu,ా ,aː,,Krishnamurti & Gwynn 1985: 3-55,https://www.omniglot.com/writing/telugu.htm
+Telugu,ా ,æː ,,Krishnamurti & Gwynn 1985: 3-56,https://www.omniglot.com/writing/telugu.htm
+,типа глоттал стоп с другую сторону,aː,в [haː],,
+Telugu,ి,i,,Krishnamurti & Gwynn 1985: 3-57,https://www.omniglot.com/writing/telugu.htm
+Telugu,ీ,iː,,Krishnamurti & Gwynn 1985: 3-58,https://www.omniglot.com/writing/telugu.htm
+Telugu,ు,u,,Krishnamurti & Gwynn 1985: 3-59,https://www.omniglot.com/writing/telugu.htm
+Telugu,ూ,uː,,Krishnamurti & Gwynn 1985: 3-60,https://www.omniglot.com/writing/telugu.htm
+Telugu,ె,e,,Krishnamurti & Gwynn 1985: 3-61,https://www.omniglot.com/writing/telugu.htm
+Telugu,ే,eː,,Krishnamurti & Gwynn 1985: 3-62,https://www.omniglot.com/writing/telugu.htm
+Telugu,ే,æː ,,Krishnamurti & Gwynn 1985: 3-63,https://www.omniglot.com/writing/telugu.htm
+Telugu,ై,ai,,Krishnamurti & Gwynn 1985: 3-64,https://www.omniglot.com/writing/telugu.htm
+Telugu,ొ,o,,Krishnamurti & Gwynn 1985: 3-65,https://www.omniglot.com/writing/telugu.htm
+Telugu,ో,oː,,Krishnamurti & Gwynn 1985: 3-66,https://www.omniglot.com/writing/telugu.htm
+Telugu,ౌ,au,,Krishnamurti & Gwynn 1985: 3-67,https://www.omniglot.com/writing/telugu.htm
+Telugu,ృ,ru,,Krishnamurti & Gwynn 1985: 3-68,https://www.omniglot.com/writing/telugu.htm
+Telugu,ౄ,ru,extremely rare,Krishnamurti & Gwynn 1985: 3-69,https://www.omniglot.com/writing/telugu.htm
+Telugu,ౢ ,lu,,Krishnamurti & Gwynn 1985: 3-70,https://www.omniglot.com/writing/telugu.htm
+Telugu,ౣ ,lu,extremely rare,Krishnamurti & Gwynn 1985: 3-71,https://www.omniglot.com/writing/telugu.htm
+Telugu,◌ౕ ,:,,Krishnamurti & Gwynn 1985: 3-72,https://www.omniglot.com/writing/telugu.htm
+Telugu,అం ,aṃ ,,Krishnamurti & Gwynn 1985: 3-73,https://www.omniglot.com/writing/telugu.htm
+Telugu,అఁ ,ã,,Krishnamurti & Gwynn 1985: 3-74,https://www.omniglot.com/writing/telugu.htm
+Telugu,అః ,aḥ,,Krishnamurti & Gwynn 1985: 3-75,https://www.omniglot.com/writing/telugu.htm
+Telugu,క,ka,,Krishnamurti & Gwynn 1985: 3-76,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఖ,kʰa,,Krishnamurti & Gwynn 1985: 3-77,https://www.omniglot.com/writing/telugu.htm
+Telugu,గ,ɡa,,Krishnamurti & Gwynn 1985: 3-78,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఘ,ɡha,,Krishnamurti & Gwynn 1985: 3-79,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఙ,ŋa,,Krishnamurti & Gwynn 1985: 3-80,https://www.omniglot.com/writing/telugu.htm
+Telugu,చ,tsa,in front of a a: u u: o o:,Krishnamurti & Gwynn 1985: 3-81,https://www.omniglot.com/writing/telugu.htm
+Telugu,చ,tʃa,in front of I I: e e:,Krishnamurti & Gwynn 1985: 3-82,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఛ,tʃʰa,,Krishnamurti & Gwynn 1985: 3-83,https://www.omniglot.com/writing/telugu.htm
+Telugu,జ,ja,in front of a a: u u: o o:,Krishnamurti & Gwynn 1985: 3-84,https://www.omniglot.com/writing/telugu.htm
+Telugu,జ,dʒa,in front of I I: e e:,Krishnamurti & Gwynn 1985: 3-85,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఝ,dʒha,,Krishnamurti & Gwynn 1985: 3-86,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఞ,ɲa,,Krishnamurti & Gwynn 1985: 3-87,https://www.omniglot.com/writing/telugu.htm
+Telugu,ట,ʈa,,Krishnamurti & Gwynn 1985: 3-88,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఠ,ʈʰa,,Krishnamurti & Gwynn 1985: 3-89,https://www.omniglot.com/writing/telugu.htm
+Telugu,డ,ɖa,,Krishnamurti & Gwynn 1985: 3-90,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఢ,ɖʱa,,Krishnamurti & Gwynn 1985: 3-91,https://www.omniglot.com/writing/telugu.htm
+Telugu,ణ,ɳa,,Krishnamurti & Gwynn 1985: 3-92,https://www.omniglot.com/writing/telugu.htm
+Telugu,త,ta,,Krishnamurti & Gwynn 1985: 3-93,https://www.omniglot.com/writing/telugu.htm
+Telugu,థ,tʰa,,Krishnamurti & Gwynn 1985: 3-94,https://www.omniglot.com/writing/telugu.htm
+Telugu,ద,da,,Krishnamurti & Gwynn 1985: 3-95,https://www.omniglot.com/writing/telugu.htm
+Telugu,ధ,dʱa,,Krishnamurti & Gwynn 1985: 3-96,https://www.omniglot.com/writing/telugu.htm
+Telugu,న,na,,Krishnamurti & Gwynn 1985: 3-97,https://www.omniglot.com/writing/telugu.htm
+Telugu,ప,pa,,Krishnamurti & Gwynn 1985: 3-98,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఫ,fa,,Krishnamurti & Gwynn 1985: 3-99,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఫ,pʰa,,Krishnamurti & Gwynn 1985: 3-100,https://www.omniglot.com/writing/telugu.htm
+Telugu,బ,ba,,Krishnamurti & Gwynn 1985: 3-101,https://www.omniglot.com/writing/telugu.htm
+Telugu,భ,bʱa,,Krishnamurti & Gwynn 1985: 3-102,https://www.omniglot.com/writing/telugu.htm
+Telugu,మ,ma,,Krishnamurti & Gwynn 1985: 3-103,https://www.omniglot.com/writing/telugu.htm
+Telugu,య,ja,,Krishnamurti & Gwynn 1985: 3-104,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర,ra,,Krishnamurti & Gwynn 1985: 3-105,https://www.omniglot.com/writing/telugu.htm
+Telugu,ల,la,,Krishnamurti & Gwynn 1985: 3-106,https://www.omniglot.com/writing/telugu.htm
+Telugu,వ,va,before front vowels,Krishnamurti & Gwynn 1985: 3-107,https://www.omniglot.com/writing/telugu.htm
+Telugu,వ,wa,before back vowels,Krishnamurti & Gwynn 1985: 3-108,https://www.omniglot.com/writing/telugu.htm
+Telugu,ళ,ɭa,does not occur at the beginning of a word,Krishnamurti & Gwynn 1985: 3-109,https://www.omniglot.com/writing/telugu.htm
+Telugu,శ,ʃa,,Krishnamurti & Gwynn 1985: 3-110,https://www.omniglot.com/writing/telugu.htm
+Telugu,ష,ʂa,,Krishnamurti & Gwynn 1985: 3-111,https://www.omniglot.com/writing/telugu.htm
+Telugu,స,sa,,Krishnamurti & Gwynn 1985: 3-112,https://www.omniglot.com/writing/telugu.htm
+Telugu,హ,ha,,Krishnamurti & Gwynn 1985: 3-113,https://www.omniglot.com/writing/telugu.htm
+Telugu,ఱ,ɽa,,Krishnamurti & Gwynn 1985: 3-114,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్క,ka,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-115,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ఖ,kʰa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-116,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్గ,ɡa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-117,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ఘ,ɡha,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-118,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ఙ,ŋa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-119,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్చ,tsa,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-120,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్చ,tʃa,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-121,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ఛ,tʃʰa,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-122,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్జ,ja,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-123,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్జ,dʒa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-124,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ఝ,dʒha,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-125,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ఞ,ɲa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-126,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ట,ʈa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-127,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ఠ,ʈʰa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-128,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్డ,ɖa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-129,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ఢ,ɖʱa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-130,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ణ,ɳa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-131,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్త,ta,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-132,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్థ,tʰa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-133,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ద,da,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-134,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ధ,dʱa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-135,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్న,na,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-136,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ప,pa,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-137,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ఫ,fa,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-138,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ఫ,pʰa,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-139,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్బ,ba,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-140,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్భ,bʱa,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-141,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్మ,ma,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-142,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్య,ja,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-143,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ర,ra,the grapheme written to the left of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-144,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ల,la,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-145,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్వ,va,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-146,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్వ,wa,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-147,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ళ,ɭa,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-148,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్శ,ʃa,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-149,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ష,ʂa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-150,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్స,sa,the grapheme written to the right of another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-151,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్హ,ha,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-152,https://www.omniglot.com/writing/telugu.htm
+Telugu,ర్ఱ,ɽa,the grapheme written under another grapheme (here ర) denotes the second sound  in a consonant cluster,Krishnamurti & Gwynn 1985: 3-153,https://www.omniglot.com/writing/telugu.htm

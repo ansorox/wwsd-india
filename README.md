@@ -1,12 +1,11 @@
-# wwsd-india
-<ul>Dravidian
-<li>Kannada</li>
-<li>Malayalam</li>
-<li>Telugu</li>
-</ul>
+wwsd-india
+=======
+**Dravidian**
+* [Kannada] [kan]. [kan]: kan.csv
+* Malayalam
+* Telugu
 
-<ul>Indo-Aryan
-<li>Bengali</li>
-<li>Sinhala</li>
-<li>Hindi</li>
-</ul>
+**Indo-Aryan**
+* Bengali
+* Sinhala
+* Hindi
