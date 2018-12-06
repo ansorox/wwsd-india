@@ -1,7 +1,7 @@
 wwsd-india
 =======
 **Dravidian**
-* [Kannada] [kan]. [kan]: kan.csv
+* Kannada
 * Malayalam
 * Telugu
 
