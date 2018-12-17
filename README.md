@@ -10,3 +10,4 @@ wwsd-india
 * [Sinhala](sin.csv)
 * [Hindi](hin.csv)
 * [Panjabi](pan.csv)
+* [Dhivehi (Thaana)](div.csv)
